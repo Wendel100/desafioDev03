@@ -1,0 +1,15 @@
+C:\Users\Wendel\Desktop\desafioDev03\bin\Debug\net10.0\desafioDev03.exe
+C:\Users\Wendel\Desktop\desafioDev03\bin\Debug\net10.0\desafioDev03.deps.json
+C:\Users\Wendel\Desktop\desafioDev03\bin\Debug\net10.0\desafioDev03.runtimeconfig.json
+C:\Users\Wendel\Desktop\desafioDev03\bin\Debug\net10.0\desafioDev03.dll
+C:\Users\Wendel\Desktop\desafioDev03\bin\Debug\net10.0\desafioDev03.pdb
+C:\Users\Wendel\Desktop\desafioDev03\obj\Debug\net10.0\desafioDev03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wendel\Desktop\desafioDev03\obj\Debug\net10.0\desafioDev03.AssemblyInfoInputs.cache
+C:\Users\Wendel\Desktop\desafioDev03\obj\Debug\net10.0\desafioDev03.AssemblyInfo.cs
+C:\Users\Wendel\Desktop\desafioDev03\obj\Debug\net10.0\desafioDev03.csproj.CoreCompileInputs.cache
+C:\Users\Wendel\Desktop\desafioDev03\obj\Debug\net10.0\desafioDev03.sourcelink.json
+C:\Users\Wendel\Desktop\desafioDev03\obj\Debug\net10.0\desafioDev03.dll
+C:\Users\Wendel\Desktop\desafioDev03\obj\Debug\net10.0\refint\desafioDev03.dll
+C:\Users\Wendel\Desktop\desafioDev03\obj\Debug\net10.0\desafioDev03.pdb
+C:\Users\Wendel\Desktop\desafioDev03\obj\Debug\net10.0\desafioDev03.genruntimeconfig.cache
+C:\Users\Wendel\Desktop\desafioDev03\obj\Debug\net10.0\ref\desafioDev03.dll
